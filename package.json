@@ -1,0 +1,25 @@
+{
+  "name": "sushiswap-relayers-list",
+  "version": "1.0.0",
+  "description": "schema and list of all sushiswap relayers ",
+  "main": "index.ejs",
+  "scripts": {
+    "test": "jq <relayers.sushiswap.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/sushiswap-relayers-list.git"
+  },
+  "keywords": [
+    "tokenlist",
+    "sushiswap",
+    "relayers",
+    "ethereum"
+  ],
+  "author": "sam bacha",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sambacha/sushiswap-relayers-list/issues"
+  },
+  "homepage": "https://github.com/sambacha/sushiswap-relayers-list#readme"
+}
